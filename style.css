@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100..900&display=swap');
+
+.work-sans-font {
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    /* Optional, can be removed if not needed */
+    font-weight: 400;
+    /* Default weight */
+    font-style: normal;
+    /* Default style */
+}
