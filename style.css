@@ -9,3 +9,58 @@
     font-style: normal;
     /* Default style */
 }
+
+
+/*shared styles*/
+
+.display-flex {
+    display: flex;
+
+}
+
+.text-gray {
+    color: #424242;
+    font-weight: bold;
+
+}
+
+.bg-light {
+    background-color: rgba(255, 144, 14, 0.1);
+}
+
+.text-light-gray {
+    color: #727272;
+
+}
+
+
+/*header styles styles*/
+
+
+
+
+
+/*nav bar  styles*/
+.navbar {
+    justify-content: space-between;
+
+}
+
+.nav-item {
+    list-style: none;
+    margin-right: 30px;
+
+}
+
+.nav-link {
+    text-decoration: none;
+    font-weight: 500px;
+
+}
+
+.navbar,
+.banner {
+    max-width: 1440px;
+    margin: 0 auto;
+
+}
